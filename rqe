@@ -1,0 +1,15 @@
+{
+	"billing_address": {
+		"city": "tizenharom",
+		"country": "HU",
+		"email": "",
+		"line_1": "tizenharom",
+		"line_2": "tizenharom",
+		"name": "tizenharom",
+		"postal_code": "tizenharom",
+		"state": "tizenharom"
+	},
+	"billing_address_token": "372db2a0e11c737b18eb640742dcd796",
+	"payment_gateway": 5,
+	"token": "{\"type\":\"paysafecard\"}"
+}
